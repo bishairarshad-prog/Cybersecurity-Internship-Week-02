@@ -95,7 +95,4 @@ This practical improved my understanding of footprinting, reconnaissance, and ne
 
 **Note:** Testing should only be performed on systems and networks for which proper authorization is available.
 
-```
 
-Ab **Commit changes** click karke save kar do.
-```
