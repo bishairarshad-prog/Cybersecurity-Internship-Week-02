@@ -1,6 +1,3 @@
-Ye text apne main `README.md` mein paste kar do. Purana content `Ctrl + A` se replace karna.
-
-````
 # Cybersecurity Internship – Week 02
 
 ## Project Overview
